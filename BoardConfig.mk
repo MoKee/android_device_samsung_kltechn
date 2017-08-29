@@ -19,7 +19,7 @@
 TARGET_OTA_ASSERT_DEVICE := klte,kltexx,kltezn,kltezm
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineage_kltechn_defconfig
+TARGET_KERNEL_CONFIG := mokee_kltechn_defconfig
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm8974
