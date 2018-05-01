@@ -19,7 +19,7 @@ include device/samsung/klte-common/BoardConfigCommon.mk
 TARGET_OTA_ASSERT_DEVICE := klte,kltechn,kltexx,kltezm,kltezn
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineage_kltechn_defconfig
+TARGET_KERNEL_CONFIG := mokee_kltechn_defconfig
 
 # Fingerprint
 include $(COMMON_PATH)/fingerprint/board.mk
